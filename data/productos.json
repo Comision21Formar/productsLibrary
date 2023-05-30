@@ -1,0 +1,119 @@
+[
+   {
+      "id": 1,
+      "nombre": "lapicera",
+      "marca": "bic",
+      "precio": 100,
+      "descuento": 5,
+      "stock": false,
+      "categoria" : "artistica"
+   },
+   {
+      "id": 2,
+      "nombre": "goma",
+      "marca": "dos banderas",
+      "precio": 100,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "artistica"
+   },
+   {
+      "id": 3,
+      "nombre": "tijera",
+      "marca": "mapped",
+      "precio": 300,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "artistica"
+   },
+   {
+      "id": 4,
+      "nombre": "cartuchera",
+      "marca": "pizzini",
+      "precio": 1300,
+      "descuento": 20,
+      "stock": true,
+      "categoria" : "escolar"
+   },
+   {
+      "id": 5,
+      "nombre": "regla",
+      "marca": "pizzini",
+      "precio": 200,
+      "descuento": 0,
+      "stock": true,
+      "categoria" : "escolar"
+   },
+   {
+      "id": 6,
+      "nombre": "escuadra",
+      "marca": "pizzini",
+      "precio": 400,
+      "descuento": 0,
+      "stock": false,
+      "categoria" : "escolar"
+   },
+   {
+      "id": 7,
+      "nombre": "compás",
+      "marca": "pizzini",
+      "precio": 300,
+      "descuento": 0,
+      "stock": true,
+      "categoria" : "escolar"
+   },
+   {
+      "id": 8,
+      "nombre": "lapices",
+      "marca": "faber castel",
+      "precio": 1000,
+      "descuento": 0,
+      "stock": false,
+      "categoria" : "comercial"
+   },
+   {
+      "id": 9,
+      "nombre": "lapices",
+      "marca": "bic",
+      "precio": 500,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "comercial"
+   },
+   {
+      "id": 10,
+      "nombre": "transportador 180°",
+      "marca": "pizzini",
+      "precio": 1500,
+      "descuento": 20,
+      "stock": true,
+      "categoria" : "comercial"
+   },
+   {
+      "id": 11,
+      "nombre": "12 lapices",
+      "marca": "bic",
+      "precio": 500,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "comercial"
+   },
+   {
+      "id": 12,
+      "nombre": "12 Lapices",
+      "marca": "bic",
+      "precio": 500,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "comercial"
+   },
+   {
+      "id": 13,
+      "nombre": "12 LApices",
+      "marca": "bic",
+      "precio": 500,
+      "descuento": 10,
+      "stock": true,
+      "categoria" : "comercial"
+   }
+]
